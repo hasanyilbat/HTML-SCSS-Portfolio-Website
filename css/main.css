@@ -13,7 +13,7 @@
       rgba(39, 39, 39, 0.9),
       rgba(39, 39, 39, 0.3)
     ),
-    url("../img/model-1.jpg");
+    url("../../img/model-1.jpg");
   background-position: center center;
   background-size: cover;
   display: flex;
